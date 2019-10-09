@@ -1,9 +1,17 @@
 - layout: left
+  name: Polytechnic University of Catalonia
+  dates: 2016 - 2018
+  qualification: MSc Computer Science
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Master's thesis: [Design and evaluation of cache memories for a chip multicore powered at very low voltage.](https://upcommons.upc.edu/handle/2117/123664)
+
+- layout: left
   name: University of Zaragoza
   dates: 2012 - 2016
   qualification: BSc Computer Science
   quote: >
-    During my Bachelors ...
   description: | # this will include new lines to allow paragraphs
-    During my Bachelors ...
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    Gained a fellowship for the last year of my Bachelor: Introduction to [gem5](http://gem5.org/Main_Page) simulator.
+    
+    Bachelor's thesis: Design and evaluation of cache memories for a chip multicore powered at very low voltage.

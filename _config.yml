@@ -27,7 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Carlos and I'm a PhD student in Computer Architecture at University of Zaragoza.
 
 # Projects Section
-# projects_title: Projects
+projects_title: Publications #(Used to override projects to publications section)
 
 # Experience Section
 # experience_title: Experience

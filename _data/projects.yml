@@ -1,8 +1,9 @@
-- layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+# Project template
+- name: STT-RAM Memory Hierarchy Designs Aimed to Performance, Reliability and Energy Consumption.
+  authors: C. Escuin, T. Monreal, J. M. Llabería, P. Ibáñez, V. Viñals.
+  place: Poster Session, ACACES Summer School 
+  information: July 2019, Fiuggi, Italy
+  pdf: http://webdiis.unizar.es/~escuin/pdfs/ACACES_2019_Abstract.pdf
+  poster: http://webdiis.unizar.es/~escuin/pdfs/ACACES_2019_poster.pdf
+  #slides: none
+  #iee: IEE
