@@ -4,7 +4,7 @@
   qualification: MSc Computer Science
   quote: >
   description: | # this will include new lines to allow paragraphs
-    Master's thesis: [Design and evaluation of cache memories for a chip multicore powered at very low voltage.](https://upcommons.upc.edu/handle/2117/123664)
+    Master's thesis: [Analysis and simulation of data prefetching algorithms for last-level cache memory.](https://upcommons.upc.edu/handle/2117/123664)
 
 - layout: left
   name: University of Zaragoza
